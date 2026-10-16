@@ -1,6 +1,0 @@
-This file is created in main branch, at 4:31pm.
-<<<<<<< HEAD
-Handsome feels handsome in main branch, at 4:52pm.
-=======
-Pretty likes handsome in pretty branch, at 4:45pm
->>>>>>> pretty
